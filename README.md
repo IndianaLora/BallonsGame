@@ -7,5 +7,5 @@ Galushi odia los globos de helio sin importar el color, pero especificamente los
 Su objetivo y placer es destruir los globos y mantener su nave con el nivel de helio suficiente para seguir avanzado y destruyendo los globos con su laser.
 
 ###### Haga click en la imagen y vera el video presentando nuestro proyecto
-[![Image of main page](https://github.com/IndianaLora/BallonsGame/blob/main/Screenshot%20(664).png?raw=true)](https://youtu.be/xMlRdIyAwVs)
+[![Image of main page](https://github.com/IndianaLora/BallonsGame/blob/main/Screenshot%20(664).png?raw=true)](https://www.youtube.com/watch?v=56mwO2y-ZlM)
 ![Image of main page](https://github.com/IndianaLora/BallonsGame/blob/main/Screenshot%20(663).png?raw=true)
